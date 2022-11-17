@@ -7,7 +7,7 @@
 
 ***
 <div align="center">
-<img width="90%"src="https://github.com/MaiaraSanto/dsmeta1/blob/main/dsmeta.png">
+<img width="90%"src="https://github.com/MaiaraSanto/Dsmeta/blob/main/dsmeta.png">
  </div>
 
 ***
